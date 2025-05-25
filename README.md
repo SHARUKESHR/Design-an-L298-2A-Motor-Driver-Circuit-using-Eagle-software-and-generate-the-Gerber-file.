@@ -65,12 +65,16 @@ o	Reversing the logic (IN1 = LOW, IN2 = HIGH) makes it rotate in the opposite di
 o	When both inputs are the same, the motor stops.<br>
 
 # CIRCUIT DIAGRAM:
-![image](https://github.com/user-attachments/assets/b463c844-3660-426e-8c6a-09600f6720df)
+![image](https://github.com/user-attachments/assets/689de90e-ac84-47c5-865c-9bff287fbfc6)
 
 # EXPECTED OUTPUT:
 ### Schematic diagram
+![image](https://github.com/user-attachments/assets/da7fc3c0-27f4-484d-ad36-858a40292a51)
+
  
 ### Layout diagram
+![image](https://github.com/user-attachments/assets/3ee14c9d-4ab3-4520-bb85-40ef7ca82e74)
+
  
 # RESULT:
 Thus, the schematic and PCB layout for the L298 2A Motor Driver Circuit has been successfully designed using Eagle software.
